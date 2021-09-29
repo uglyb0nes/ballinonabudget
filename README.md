@@ -4,7 +4,7 @@
 
 ![Screenshot](https://github.com/uglyb0nes/ballinonabudget/blob/master/public/icons/ballin.png)
 
-###[Live on Heroku](https://ballinonabudget.herokuapp.com)
+### [Live on Heroku](https://ballinonabudget.herokuapp.com)
 
 ## Table of Contents:
 
